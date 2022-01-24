@@ -52,13 +52,13 @@ plainwhite:
 #header_pages:
 # - about.md
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+ # - jekyll-feed
+
 # Build settings
 theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 
 url: "https://matciotola.github.io" # the base hostname & protocol for your site
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
- # - jekyll-feed
