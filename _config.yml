@@ -2,11 +2,11 @@ title: Matteo Ciotola
 author: Matteo Ciotola
 email: matteo.ciotola@unina.it
 description: > # this means to ignore newlines until "show_exerpts:"
-  Matteo's Ciotola personal Page. I am a PhD student at the University of Naples Federico II and I'm a member of the GRIP Research Group.
-  My interests are Deep Learning, in particular, applied to Remote Sensing and Computer Vision. 
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
 
-remote_theme: samarsault/plainwhite-jekyll
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
@@ -26,7 +26,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    #twitter: matciotola
+    #twitter: samarsault
     github:  matciotola
     linkedIn: in/matteo-ciotola-1a9288134
     #dribbble: jekyll
@@ -52,13 +52,9 @@ plainwhite:
 #header_pages:
 # - about.md
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
- # - jekyll-feed
-
 # Build settings
 theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
 
-url: "https://matciotola.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
