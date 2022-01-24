@@ -40,11 +40,18 @@ plainwhite:
     #gitlab: jekyll
     email: matteo.ciotola@unina.it
 
+  navigation:
+    - title: Home
+      url: "/index"
+    - title: About
+      url: "/about"
+
+
     # Mastodon instances
     # mastodon:
     # - username: jekyll
     #   instance: example.com
-    # - username: jekyll2
+    # - username: jekyll
     #   instance: example.com
 
 # If you want to link only specific pages in your header, uncomment
@@ -59,3 +66,6 @@ remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+# Menu
+
