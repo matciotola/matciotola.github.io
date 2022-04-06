@@ -41,7 +41,7 @@ plainwhite:
   navigation:
     - title: Home
       url: "/index"
-    - title: About
+    - title: About Me
       url: "/about"
 
 
