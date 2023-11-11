@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Mazza2023FeatExtr,
+  author={Mazza, Antonio and Ciotola, Matteo and Poggi, Giovanni and Scarpa, Giuseppe},
+  booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Synergic Use of SAR and Optical Data for Feature Extraction}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={2061-2064},
+  doi={10.1109/IGARSS52108.2023.10281855}
+}

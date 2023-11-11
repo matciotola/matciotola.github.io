@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Ciotola2022GanFuse,
+  author={Ciotola, M. and Martinelli, A. and Mazza, A. and Scarpa, G.},
+  booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={An Adversarial Training Framework for Sentinel-2 Image Super-Resolution}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3782-3785},
+  doi={10.1109/IGARSS46834.2022.9883144}
+  }

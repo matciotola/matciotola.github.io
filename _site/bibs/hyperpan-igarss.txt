@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Guarino2023UnsupHyperPansharpening,
+  author={Guarino, G. and Ciotola, M. and Vivone, G. and Poggi, G. and Scarpa, G.},
+  booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={An Unsupervised CNN-Based Hyperspectral Pansharpening Method}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5982-5985},
+  doi={10.1109/IGARSS52108.2023.10282928}
+}

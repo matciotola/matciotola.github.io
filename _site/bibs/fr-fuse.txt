@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Ciotola2021FRSen2,
+  author={Ciotola, M. and Ragosta, M. and Poggi, G. and Scarpa, G.},
+  booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS}, 
+  title={A Full-Resolution Training Framework for Sentinel-2 Image Fusion}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1260-1263},
+  doi={10.1109/IGARSS47720.2021.9553199}
+}
