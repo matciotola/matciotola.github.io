@@ -1,0 +1,42 @@
+main:
+
+  - title: Pansharpening by Efficient and Fast Unsupervised Target-Adaptive CNN
+    authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Antonio Mazza, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IGARSS 2023
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10281456
+    page: https://ieeexplore.ieee.org/abstract/document/10281456
+    bibtex: ./bibs/effpansh-igarss.txt
+
+  - title: Synergic Use of SAR and Optical Data for Feature Extraction
+    authors: Antonio Mazza, <strong>Matteo Ciotola</strong>, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IGARSS 2023
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10281855
+    page: https://ieeexplore.ieee.org/abstract/document/10281855
+    bibtex: ./bibs/featextr-igarss.txt
+
+  - title: An Unsupervised CNN-Based Hyperspectral Pansharpening Method
+    authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Gemine Vivone, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IGARSS 2023
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10282928
+    page: https://ieeexplore.ieee.org/abstract/document/10282928
+    bibtex: ./bibs/hyperpan-igarss.txt
+
+  - title: An Adversarial Training Framework for Sentinel-2 Image Super-Resolution
+    authors: <strong>Matteo Ciotola</strong>, Antonio Martinelli, Antonio Mazza, Giuseppe Scarpa
+    conference_short: IGARSS 2022
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2022.
+    pdf: https://www.researchgate.net/profile/Matteo_Ciotola/publication/363936061_An_Adversarial_Training_Framework_for_Sentinel-2_Image_Super-Resolution/links/649c07ecc41fb852dd3a8018/An-Adversarial-Training-Framework-for-Sentinel-2-Image-Super-Resolution.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/9883144
+    bibtex: ./bibs/gan-fuse.txt
+
+  - title: A Full-Resolution Training Framework for Sentinel-2 Image Fusion
+    authors: <strong>Matteo Ciotola</strong>, Mario Ragosta, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IGARSS 2021
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2307.14864.pdf
+    code: https://github.com/matciotola/FR-FUSE
+    page: https://ieeexplore.ieee.org/abstract/document/9553199
+    bibtex: ./bibs/fr-fuse.txt

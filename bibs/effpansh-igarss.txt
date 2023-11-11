@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Ciotola2023EffPansharpening,
+  author={Ciotola, M. and Guarino, G. and Mazza, A. and Poggi, G. and Scarpa, G.},
+  booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Pansharpening by Efficient and Fast Unsupervised Target-Adaptive CNN}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={5579-5582},
+  doi={10.1109/IGARSS52108.2023.10281456}
+  }
