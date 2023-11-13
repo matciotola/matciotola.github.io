@@ -1,4 +1,4 @@
-@ARTICLE{Guarino2023PCAZPNN,
+@article{Guarino2023PCAZPNN,
   author={Guarino, Giuseppe and Ciotola, Matteo and Vivone, Gemine and Poggi, Giovanni and Scarpa, Giuseppe},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={PCA-CNN Hybrid Approach for Hyperspectral Pansharpening}, 
