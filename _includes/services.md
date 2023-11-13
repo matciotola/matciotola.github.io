@@ -47,6 +47,6 @@ Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
 <h4 style="margin:0 10px 0;">Session Chair</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://2023.ieeeigarss.org/"><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023 - THP.P13: Different Approaches with SAR, Multispectral Hyperspectral Data </autocolor></a></li>
-  <li><a href="https://www.igarss2022.org/"><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022 - TH6.V11 - Super-Resolution</autocolor></a></li>
+  <li><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023 - <a href="https://2023.ieeeigarss.org/view_session.php?SessionID=1119">THP.P13: Different Approaches with SAR, Multispectral Hyperspectral Data</a></autocolor></li>
+  <li><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022 - <a href="https://www.igarss2022.org/view_session.php?SessionID=1126">TH6.V11 - Super-Resolution</a></autocolor></li>
 </ul>
