@@ -1,22 +1,51 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: PCA-CNN Hybrid Approach for Hyperspectral Pansharpening
+    authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Gemine Vivone, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IEEE GRSL
+    conference: IEEE Geoscience and Remote Sensing Letters, 2023.
+    pdf: https://ieeexplore.ieee.org/iel7/8859/4357975/10288481.pdf
+    code: https://github.com/giu-guarino/PCA-Z-PNN
+    page: https://ieeexplore.ieee.org/abstract/document/10288481/
+    bibtex: ./bibs/pca-z-pnn.txt
+    image: ./assets/img/articles/pca-z-pnn.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Unsupervised Deep Learning-based Pansharpening with Jointly-Enhanced Spectral and Spatial Fidelity
+    authors: <strong>Matteo Ciotola</strong>, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IEEE TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing, 2023.
+    pdf: https://ieeexplore.ieee.org/iel7/36/4358825/10198408.pdf
+    code: https://github.com/matciotola/Lambda-PNN/
+    page: https://ieeexplore.ieee.org/abstract/document/10198408/
+    bibtex: ./bibs/lambda-pnn.txt
+    image: ./assets/img/articles/lambda-pnn.jpg
+
+  - title: Fast Full-Resolution Target-Adaptive CNN-Based Pansharpening Framework
+    authors: <strong>Matteo Ciotola</strong>, Giuseppe Scarpa
+    conference_short: MDPI RS
+    conference: MDPI Remote Sensing, 2023.
+    pdf: https://www.mdpi.com/2072-4292/15/2/319/pdf
+    code: https://github.com/matciotola/fast-z-pnn
+    page: https://www.mdpi.com/2072-4292/15/2/319
+    bibtex: ./bibs/fast-z-pnn.txt
+    image: ./assets/img/articles/fast-z-pnn.jpg
+
+  - title: Pansharpening by convolutional neural networks in the full resolution framework
+    authors: <strong>Matteo Ciotola</strong>, Sergio Vitale, Antonio Mazza, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IEEE TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing, 2022.
+    pdf: https://arxiv.org/pdf/2111.08334.pdf
+    code: https://github.com/matciotola/Z-PNN/
+    page: https://ieeexplore.ieee.org/abstract/document/9745494
+    bibtex: ./bibs/z-pnn.txt
+    image: ./assets/img/articles/zpnn.gif
+
+  - title: Full-Resolution Quality Assessment for Pansharpening
+    authors: Giuseppe Scarpa, <strong>Matteo Ciotola</strong>
+    conference_short: MDPI RS
+    conference: MDPI Remote Sensing, 2022.
+    pdf: https://www.mdpi.com/2072-4292/14/8/1808/pdf?version=1649647443
+    code: https://github.com/matciotola/fr-pansh-eval-tool
+    page: https://www.mdpi.com/2072-4292/14/8/1808
+    bibtex: ./bibs/fr-pansh-eval-tool.txt
+    image: ./assets/img/articles/fr-pansh-eval-tool.png

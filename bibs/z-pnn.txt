@@ -1,0 +1,10 @@
+@article{Ciotola2022ZPNN,
+  author={Ciotola, Matteo and Vitale, Sergio and Mazza, Antonio and Poggi, Giovanni and Scarpa, Giuseppe},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Pansharpening by Convolutional Neural Networks in the Full Resolution Framework}, 
+  year={2022},
+  volume={60},
+  number={},
+  pages={1-17},
+  doi={10.1109/TGRS.2022.3163887}
+}
