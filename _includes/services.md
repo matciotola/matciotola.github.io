@@ -16,7 +16,7 @@
 <h4 style="margin:0 10px 0;">Teaching Activities</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor><strong>2020 - ...</strong>  <em>Teaching support</em>,  "Image Processing for Computer Vision" course at University Federico II</autocolor></li>
-  <li><autocolor><strong>2023</strong><code>&nbsp;&emsp;&emsp;</code><em>Tutorship</em>, Fundamental of Physics, course at University Federico II</autocolor></li>
+  <li><autocolor><strong>2023</strong><code>&nbsp;&emsp;&emsp;</code><em>Tutorship</em>, "Fundamental of Physics", course at University Federico II</autocolor></li>
   <li><autocolor><strong>2023</strong><code>&nbsp;&emsp;&emsp;</code><em>Tutorial</em>, <a href="https://2023.ieeeigarss.org/tutorials.php#tut107">"HD-03: Pansharpening by convolutional neural networks” at International
 Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
   <li><autocolor><strong>2022</strong><code>&nbsp;&emsp;&emsp;</code><em>Tutorial</em>, <a href="https://iadf-school.org/iadf_2022/">"Image Fusion - Pansharpening by Convolutional Neural Network” at IEEE GRSS IADF School on Computer Vision for Earth Observation</a></autocolor></li>
