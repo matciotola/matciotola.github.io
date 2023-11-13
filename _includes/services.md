@@ -3,13 +3,13 @@
 <h4 style="margin:0 10px 0;">Awards</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://itee.dieti.unina.it/index.php/it/26-news-xxxix-cycle/266-gtti-annual-meeting-award-winner-2023"><autocolor>CNIT-GTTI Prof. Francesco Carassa Award 2023 (Radar and Remote Sensing)</autocolor></a></li>
+  <li><autocolor>(<strong>2023</strong>) <a href="https://itee.dieti.unina.it/index.php/it/26-news-xxxix-cycle/266-gtti-annual-meeting-award-winner-2023">CNIT-GTTI Prof. Francesco Carassa Award (Radar and Remote Sensing)</a></autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Qualifications</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.unina.it/documents/11958/24211580/ING.INF_2021.01.12_esito.11.1.pdf"><autocolor>Government exam and Licensed as a Professional Engineer</autocolor></a></li>
+  <li><autocolor>(<strong>2021</strong>) <a href="https://www.unina.it/documents/11958/24211580/ING.INF_2021.01.12_esito.11.1.pdf">Government exam and Licensed as a Professional Engineer</a></autocolor></li>
 </ul>
 
 
