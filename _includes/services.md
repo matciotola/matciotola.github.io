@@ -44,7 +44,7 @@ Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Session Chair at:</h4>
+<h4 style="margin:0 10px 0;">Session Chair</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://2023.ieeeigarss.org/"><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023 - THP.P13: Different Approaches with SAR, Multispectral Hyperspectral Data </autocolor></a></li>
