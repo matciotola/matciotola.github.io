@@ -23,10 +23,6 @@ Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
 </ul>
 
 
-<ul style="margin:0 0 5px;">
-  <li><a href="https://www.unina.it/documents/11958/24211580/ING.INF_2021.01.12_esito.11.1.pdf"><autocolor>Government exam and Licensed as a Professional Engineer</autocolor></a></li>
-</ul>
-
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
