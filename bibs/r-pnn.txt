@@ -1,0 +1,10 @@
+@ARTICLE{Guarino2023RPNN,
+  author={Guarino, Giuseppe and Ciotola, Matteo and Vivone, Gemine and Scarpa, Giuseppe},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Band-wise Hyperspectral Image Pansharpening using CNN Model Propagation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3339337}
+}

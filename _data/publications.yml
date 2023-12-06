@@ -1,5 +1,15 @@
 main:
 
+  - title: Band-wise Hyperspectral Image Pansharpening using CNN Model Propagation
+    authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Gemine Vivone, Giuseppe Scarpa
+    conference_short: IEEE TGRS
+    conference: Transactions on Geoscience and Remote Sensing, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10341305
+    code: https://github.com/giu-guarino/R-PNN
+    page: https://ieeexplore.ieee.org/document/10341305
+    bibtex: ./bibs/r-pnn.txt
+    image: ./assets/img/articles/r-pnn.jpeg
+
   - title: PCA-CNN Hybrid Approach for Hyperspectral Pansharpening
     authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Gemine Vivone, Giovanni Poggi, Giuseppe Scarpa
     conference_short: IEEE GRSL
