@@ -19,7 +19,7 @@ I received the B.Sc., M.Sc. (cum laude) degrees in Automation Engineering and Ph
 - **[Nov. 2023]** The CCS proposal titled ["CCS.109: Super-resolution and pansharpening"](https://www.2024.ieeeigarss.org/community_contributed_sessions.php) has been accepted. I am thrilled to see you at IGARSS 2024.
 - **[Oct. 2023]** Our paper ["PCA-CNN Hybrid Approach for Hyperspectral Pansharpening"](https://ieeexplore.ieee.org/abstract/document/10288481) is accepted to GRSL.
 - **[Aug. 2023]** Our paper ["Unsupervised Deep Learning-Based Pansharpening With Jointly Enhanced Spectral and Spatial Fidelity"](https://ieeexplore.ieee.org/abstract/document/10198408) is accepted to TGRS.
-# - **[Jul. 2023]** I will be a Presenter at the IGARSS 2023 Tutorial titled ["HD03: Pansharpening by Convolutional Neural Networks"](https://2023.ieeeigarss.org/tutorials.php#tut107).
+
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/conferences.md %}
