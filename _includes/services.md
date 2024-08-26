@@ -31,7 +31,7 @@ Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443"><autocolor>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859"><autocolor>IEEE Geoscience and Remote Sensing Letters (GRSL)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/information-fusion"><autocolor>Information Fusion (Inf. Fus.)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor>ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing"><autocolor>ISPRS Journal of Photogrammetry and Remote Sensing (Ph&RS)</autocolor></a></li>
   <li><a href="https://www.mdpi.com/journal/remotesensing/about"><autocolor>MDPI Remote Sensing (MDPI RS)</autocolor></a></li>
   <li><a href="https://www.mdpi.com/journal/sensors/about"><autocolor>MDPI Sensors (MDPI Sens.)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/tjde20"><autocolor>International Journal of Digital Earth  (TJDE)</autocolor></a></li>
