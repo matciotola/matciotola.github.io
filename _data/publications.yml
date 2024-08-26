@@ -3,7 +3,7 @@ main:
   - title: An Unsupervised CNN-Based Pansharpening Framework with Spectral-Spatial Fidelity Balance
     authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Giuseppe Scarpa
     conference_short: MDPI RS
-    conference: Transactions on Geoscience and Remote Sensing, 2023.
+    conference: MDPI Remote Sensing, 2024.
     pdf: https://www.mdpi.com/2072-4292/16/16/3014/pdf?version=1723886007
     page: https://www.mdpi.com/2072-4292/16/16/3014
     bibtex: ./bibs/balance.txt
