@@ -1,0 +1,12 @@
+@Article{Ciotola2024Balance,
+AUTHOR = {Ciotola, Matteo and Guarino, Giuseppe and Scarpa, Giuseppe},
+TITLE = {An Unsupervised CNN-Based Pansharpening Framework with Spectral-Spatial Fidelity Balance},
+JOURNAL = {Remote Sensing},
+VOLUME = {16},
+YEAR = {2024},
+NUMBER = {16},
+ARTICLE-NUMBER = {3014},
+URL = {https://www.mdpi.com/2072-4292/16/16/3014},
+ISSN = {2072-4292},
+DOI = {10.3390/rs16163014}
+}

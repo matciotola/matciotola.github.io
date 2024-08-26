@@ -16,6 +16,7 @@
 <h4 style="margin:0 10px 0;">Teaching Activities</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor><strong>2020 - ...</strong>  <em>Teaching support</em>,  "Image Processing for Computer Vision" course at University Federico II</autocolor></li>
+  <li><autocolor><strong>2024 - ...</strong>  <em>Teaching support</em>,  "Statistical Learning e Intelligenza Artificiale" course at University Parthenope</autocolor></li>
   <li><autocolor><strong>2023</strong><code>&nbsp;&emsp;&emsp;</code><em>Tutorship</em>, "Fundamental of Physics", course at University Federico II</autocolor></li>
   <li><autocolor><strong>2023</strong><code>&nbsp;&emsp;&emsp;</code><em>Tutorial</em>, <a href="https://2023.ieeeigarss.org/tutorials.php#tut107">"HD-03: Pansharpening by convolutional neural networks” at International
 Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
@@ -37,16 +38,25 @@ Geoscience and Remote Sensing Symposium (IGARSS)</a></autocolor></li>
   <li><a href="https://www.tandfonline.com/journals/tgsi20"><autocolor>Geo-spatial Information Science (TGSI)</autocolor></a></li>
 </ul>
 
+
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://2023.ieeeigarss.org/"><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2021-2023</autocolor></a></li>
+  <li><a href="https://2023.ieeeigarss.org/"><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2021-2024</autocolor></a></li>
+</ul>
+
+
+<h4 style="margin:0 10px 0;">Community Contributed Session Organizer</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2024 - <a href="https://2024.ieeeigarss.org/community_contributed_sessions.php">CCS.109: Super-resolution and pansharpening</a></autocolor></li>
 </ul>
 
 
 <h4 style="margin:0 10px 0;">Session Chair</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2024 - <a href="https://2024.ieeeigarss.org/view_session.php?SessionID=1190">WE1.R3: Super-resolution and Pansharpening I</a>, <a href="https://2024.ieeeigarss.org/view_session.php?SessionID=1191">WE1.R3: Super-resolution and Pansharpening II</a>, <a href="https://2024.ieeeigarss.org/view_session.php?SessionID=1340">WE1.R3: Super-resolution and Pansharpening III</a></autocolor></li>
   <li><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023 - <a href="https://2023.ieeeigarss.org/view_session.php?SessionID=1119">THP.P13: Different Approaches with SAR, Multispectral Hyperspectral Data</a></autocolor></li>
   <li><autocolor>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022 - <a href="https://www.igarss2022.org/view_session.php?SessionID=1126">TH6.V11 - Super-Resolution</a></autocolor></li>
 </ul>
