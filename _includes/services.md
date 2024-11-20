@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Awards</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>(<strong>2024</strong>) <a href="https://techdefense.org/awards">IEEE TechDefense - Best Paper Presented by a Young Researcher</a></autocolor></li>
   <li><autocolor>(<strong>2023</strong>) <a href="https://itee.dieti.unina.it/index.php/it/26-news-xxxix-cycle/266-gtti-annual-meeting-award-winner-2023">CNIT-GTTI Prof. Francesco Carassa Award (Radar and Remote Sensing)</a></autocolor></li>
 </ul>
 
