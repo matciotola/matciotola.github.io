@@ -14,7 +14,7 @@ I received the B.Sc., M.Sc. (cum laude) degrees in Automation Engineering and Ph
 
 
 ## News
-- **[Nov. 2024]** I am pleased to share that I have been awarded the ["Best Paper Presented by a Young Researcher"](https://techdefense.org/awards) at the 2024 IEEE Technologies for Defense and Security (TechDefense) conference.
+- **[Nov. 2024]** I have been awarded the ["Best Paper Presented by a Young Researcher"](https://techdefense.org/awards) at the 2024 IEEE Technologies for Defense and Security (TechDefense) conference.
 - **[Aug. 2024]** Our paper ["An Unsupervised CNN-Based Pansharpening Framework with Spectral-Spatial Fidelity Balance"](https://www.mdpi.com/2072-4292/16/16/3014) is accepted to MDPI Remote Sensing.
 - **[Feb. 2024]** I've officially earned my PhD in Telecommunications Engineering with the thesis titled "Deep Learning-based Pansharpening and Super-Resolution of Remote Sensing Images".
 - **[Dec. 2023]** Our new article titled ["Band-wise Hyperspectral Image Pansharpening using CNN Model Propagation"](https://ieeexplore.ieee.org/document/10341305) has been published on IEEE TGRS.
