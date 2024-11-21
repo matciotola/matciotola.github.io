@@ -19,8 +19,6 @@ I received the B.Sc., M.Sc. (cum laude) degrees in Automation Engineering and Ph
 - **[Feb. 2024]** I've officially earned my PhD in Telecommunications Engineering with the thesis titled "Deep Learning-based Pansharpening and Super-Resolution of Remote Sensing Images".
 - **[Dec. 2023]** Our new article titled ["Band-wise Hyperspectral Image Pansharpening using CNN Model Propagation"](https://ieeexplore.ieee.org/document/10341305) has been published on IEEE TGRS.
 - **[Nov. 2023]** The CCS proposal titled ["CCS.109: Super-resolution and pansharpening"](https://www.2024.ieeeigarss.org/community_contributed_sessions.php) has been accepted. I am thrilled to see you at IGARSS 2024.
-<!-- - **[Oct. 2023]** Our paper ["PCA-CNN Hybrid Approach for Hyperspectral Pansharpening"](https://ieeexplore.ieee.org/abstract/document/10288481) is accepted to GRSL.
- - **[Aug. 2023]** Our paper ["Unsupervised Deep Learning-Based Pansharpening With Jointly Enhanced Spectral and Spatial Fidelity"](https://ieeexplore.ieee.org/abstract/document/10198408) is accepted to TGRS. -->
 
 
 {% include_relative _includes/publications.md %}
