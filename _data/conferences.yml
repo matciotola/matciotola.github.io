@@ -25,7 +25,7 @@ main:
     page: https://ieeexplore.ieee.org/abstract/document/10642361
     bibtex: ./bibs/balance-igarss.txt
 
-  - title: "\n\n\n\n Hyperspectral Pansharpening: Review and Future Perspectives"
+  - title: Hyperspectral Pansharpening - Review and Future Perspectives
     authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Gemine Vivone, Jocelyn Chanussot, Antonio Plaza, Giuseppe Scarpa
     conference_short: IGARSS 2024
     conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2024.
