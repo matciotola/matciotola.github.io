@@ -2,8 +2,8 @@ main:
 
   - title: A Spectral-Preserving Zero-Shot Technique for Hyperspectral Pansharpening
     authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Giuseppe Scarpa
-    conference_short: TechDefense 2024
-    conference: IEEE International Workshop on Technologies for Defense and Security <strong>(TechDefense)</strong>, 2024.
+    conference_short: SCIA 2025
+    conference: Scandinavian Conference on Image Analysis <strong>(SCIA)</strong>, 2025.
     pdf: https://link.springer.com/content/pdf/10.1007/978-3-031-95918-9.pdf
     page: https://link.springer.com/chapter/10.1007/978-3-031-95918-9_6
     bibtex: ./bibs/zeroshot-scia.txt
