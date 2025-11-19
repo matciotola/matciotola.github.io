@@ -1,4 +1,4 @@
-@INPROCEEDINGS{Ciotola2025HSToolIGARSS,
+@INPROCEEDINGS{Ciotola2024HSToolIGARSS,
   author={Ciotola, M. and Guarino, G. and Vivone, G. and Chanussot, J. and Plaza, A. and Scarpa, G.},
   booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium},
   title={Hyperspectral Pansharpening: Review and Future Perspectives},

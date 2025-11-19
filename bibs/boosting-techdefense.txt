@@ -1,4 +1,4 @@
-@INPROCEEDINGS{Ciotola2025BoostingTechDefense,
+@INPROCEEDINGS{Ciotola2024BoostingTechDefense,
   author={Ciotola, Matteo and Poggi, Giovanni and Scarpa, Giuseppe},
   booktitle={2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense)},
   title={Boosting Resolution of VHR Remote Sensing Images using CNN},

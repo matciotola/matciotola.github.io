@@ -1,4 +1,4 @@
-@INPROCEEDINGS{Guarino2025HybridGSA_CNN_IGARSS,
+@INPROCEEDINGS{Guarino2024HybridGSA_CNN_IGARSS,
   author={Guarino, Giuseppe and Ciotola, Matteo and Poggi, Giovanni and Vivone, Gemine and Scarpa, Giuseppe},
   booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium},
   title={Hybrid GSA-CNN Method for Hyperspectral Pansharpening},
