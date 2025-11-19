@@ -1,0 +1,15 @@
+@InProceedings{Guarino2025ZeroShotSCIA,
+    author="Guarino, Giuseppe
+    and Ciotola, Matteo
+    and Scarpa, Giuseppe",
+    editor="Petersen, Jens
+    and Dahl, Vedrana Andersen",
+    title="A Spectral-Preserving Zero-Shot Technique for Hyperspectral Pansharpening",
+    booktitle="Image Analysis",
+    year="2025",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="77--91",
+    isbn="978-3-031-95918-9"
+}
+

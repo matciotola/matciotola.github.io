@@ -1,0 +1,10 @@
+@ARTICLE{Guarino2025ZeroShot,
+  author={Guarino, Giuseppe and Ciotola, Matteo and Vivone, Gemine and Poggi, Giovanni and Scarpa, Giuseppe},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control},
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-19},
+  doi={10.1109/TGRS.2025.3583877}
+}

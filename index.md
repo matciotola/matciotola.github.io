@@ -4,8 +4,10 @@ layout: homepage
 
 ## About Me
 
-I received the B.Sc., M.Sc. (cum laude) degrees in Automation Engineering and PhD degree in Telecommunications Engineering from the University of Naples Federico II, Naples, Italy, in 2018, 2020, and 2024 respectively. I am currently a Postdoctoral Research Fellow at the University of Naples Federico II. In 2020, I held a traineeship with the Centre de Coopération Internationale en Recherche Agronomique pour le Développement (CIRAD), Montpellier, France, where I conducted my research at the Maison de la Télédétection. From 2022 to 2023, I was a Visiting Scholar with the Université Bretagne Sud, Vannes, France, where I fulfilled my research with the Environment Observation With Complex Imagery (OBELIX) Research Team. I am a member of the GRIP Research Team. My main research interests focus on data fusion of remotely sensed images, particularly super-resolution and pansharpening, through deep learning algorithms.
-
+I received my B.Sc. and M.Sc. degrees in Automation Engineering, earning the latter cum laude, and completed my Ph.D. in Information Technology and Electrical Engineering (ITEE) in 2024 at the University of Naples Federico II, Italy. I am currently an Assistant Professor at the same university and a member of the Group of Research on Image Processing (GRIP).
+In 2020, I carried out a research traineeship at the Centre de Coopération Internationale en Recherche Agronomique pour le Développement (CIRAD) in Montpellier, France, conducting my work at the Maison de la Télédétection, an interdisciplinary center dedicated to remote sensing for environmental and agricultural applications. From 2022 to 2023, I was a Visiting Scholar at the Université Bretagne Sud in Vannes, France, collaborating with the Environment Observation With Complex Imagery (OBELIX) research team.
+My primary research interests focus on remote sensing image analysis, particularly multi-source image fusion, including super-resolution, pansharpening, and co-registration of multispectral, hyperspectral, and panchromatic data. My work leverages deep learning techniques to develop advanced methodologies for image processing in remote sensing.
+Since 2025, I have been serving as Chair of the Young Professionals Affinity Group of the IEEE Italy Section.
 ## Research Interests
 
 - **Remote Sensing:** multispectral pansharpening, hyperspectral pansharpening, super-resolution, feature extraction, image reconstruction
@@ -14,14 +16,17 @@ I received the B.Sc., M.Sc. (cum laude) degrees in Automation Engineering and Ph
 
 
 ## News
-- **[Nov. 2024]** I have been awarded the ["Best Paper Presented by a Young Researcher"](https://techdefense.org/awards) at the 2024 IEEE Technologies for Defense and Security (TechDefense) conference.
-- **[Aug. 2024]** Our paper ["An Unsupervised CNN-Based Pansharpening Framework with Spectral-Spatial Fidelity Balance"](https://www.mdpi.com/2072-4292/16/16/3014) is accepted to MDPI Remote Sensing.
-- **[Feb. 2024]** I've officially earned my PhD in Telecommunications Engineering with the thesis titled "Deep Learning-based Pansharpening and Super-Resolution of Remote Sensing Images".
-- **[Dec. 2023]** Our new article titled ["Band-wise Hyperspectral Image Pansharpening using CNN Model Propagation"](https://ieeexplore.ieee.org/document/10341305) has been published on IEEE TGRS.
-- **[Nov. 2023]** The CCS proposal titled ["CCS.109: Super-resolution and pansharpening"](https://www.2024.ieeeigarss.org/community_contributed_sessions.php) has been accepted. I am thrilled to see you at IGARSS 2024.
+- **[Aug. 2025]** I have presented the work ["Pixel-wise Coregistration-at-loss For Enhanced CNN-Based Pansharpening"]() at IGARSS 2025 in Brisbane, Australia.
+- **[Jun. 2025]** We have presented the work ["A Spectral-Preserving Zero-Shot Technique for Hyperspectral Pansharpening"](https://link.springer.com/chapter/10.1007/978-3-031-95918-9_6) at SCIA 2025 in Reykjavik, Iceland.
+- **[Jun. 2025]** Our paper ["Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control"](https://ieeexplore.ieee.org/abstract/document/11053838) has been accepted to MDPI Remote Sensing.
+- **[Jun. 2025]** Our paper ["A Comprehensive Benchmarking Framework for Sentinel-2 Sharpening: Methods, Dataset, and Evaluation Metrics](https://www.mdpi.com/2072-4292/17/12/1983) has been accepted to MDPI Remote Sensing.
+- **[Jan. 2025]** I have been appointed Chair of the Young Professionals Affinity Group of the IEEE Italy Section.
 
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/conferences.md %}
 
 {% include_relative _includes/services.md %}
+
+
+#### Last Update: 19 November 2025

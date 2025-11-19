@@ -1,11 +1,41 @@
 main:
 
+  - title: Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control
+    authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Gemine Vivone, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IEEE TGRS
+    conference: Transactions on Geoscience and Remote Sensing, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11053838
+    code: https://github.com/giu-guarino/rho-PNN
+    page: https://ieeexplore.ieee.org/abstract/document/11053838
+    bibtex: ./bibs/zero-shot.txt
+    image: ./assets/img/articles/zero-shot.jpeg
+
+  - title: "A Comprehensive Benchmarking Framework for Sentinel-2 Sharpening: Methods, Dataset, and Evaluation Metrics"
+    authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Antonio Mazza, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: MDPI RS
+    conference: MDPI Remote Sensing, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11053838
+    code: https://github.com/matciotola/Sentinel2-SR-Toolbox
+    page: https://ieeexplore.ieee.org/abstract/document/11053838
+    bibtex: ./bibs/s2tool.txt
+    image: ./assets/img/articles/s2tool.jpeg
+
+  - title: "Hyperspectral Pansharpening: Critical review, tools, and future perspectives"
+    authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Gemine Vivone, Giovanni Poggi, Jocelyn Chanussot, Antonio Plaza, Giuseppe Scarpa
+    conference_short: IEEE GRSM
+    conference: IEEE Geoscience and Remote Sensing Magazine, 2024.
+    pdf: https://arxiv.org/pdf/2407.01355
+    code: https://github.com/matciotola/hyperspectral_pansharpening_toolbox
+    page: https://ieeexplore.ieee.org/document/10804644
+    bibtex: ./bibs/hstool.txt
+    image: ./assets/img/articles/hstool.jpeg
+
   - title: An Unsupervised CNN-Based Pansharpening Framework with Spectral-Spatial Fidelity Balance
     authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Giuseppe Scarpa
     conference_short: MDPI RS
     conference: MDPI Remote Sensing, 2024.
-    pdf: https://www.mdpi.com/2072-4292/16/16/3014/pdf?version=1723886007
-    page: https://www.mdpi.com/2072-4292/16/16/3014
+    pdf: https://www.mdpi.com/2072-4292/17/12/1983/pdf?version=1749455588
+    page: https://www.mdpi.com/2072-4292/17/12/1983
     bibtex: ./bibs/balance.txt
     image: ./assets/img/articles/balance.png
 

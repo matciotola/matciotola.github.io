@@ -1,5 +1,46 @@
 main:
 
+  - title: A Spectral-Preserving Zero-Shot Technique for Hyperspectral Pansharpening
+    authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Giuseppe Scarpa
+    conference_short: TechDefense 2024
+    conference: IEEE International Workshop on Technologies for Defense and Security <strong>(TechDefense)</strong>, 2024.
+    pdf: https://link.springer.com/content/pdf/10.1007/978-3-031-95918-9.pdf
+    page: https://link.springer.com/chapter/10.1007/978-3-031-95918-9_6
+    bibtex: ./bibs/zeroshot-scia.txt
+
+
+  - title: Boosting Resolution of VHR Remote Sensing Images using CNN
+    authors: <strong>Matteo Ciotola</strong>, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: TechDefense 2024
+    conference: IEEE International Workshop on Technologies for Defense and Security <strong>(TechDefense)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10863801
+    page: https://ieeexplore.ieee.org/abstract/document/10863801
+    bibtex: ./bibs/boosting-techdefense.txt
+
+  - title: Balancing Spectral and Spatial Quality in CNN-Based Unsupervised Pansharpening
+    authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Giovanni Poggi, Giuseppe Scarpa
+    conference_short: IGARSS 2024
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10642361
+    page: https://ieeexplore.ieee.org/abstract/document/10642361
+    bibtex: ./bibs/balance-igarss.txt
+
+  - title: "Hyperspectral Pansharpening: Review and Future Perspectives"
+    authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Gemine Vivone, Jocelyn Chanussot, Antonio Plaza, Giuseppe Scarpa
+    conference_short: IGARSS 2024
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10640555
+    page: https://ieeexplore.ieee.org/abstract/document/10640555
+    bibtex: ./bibs/hstool-igarss.txt
+
+  - title: Hybrid GSA-CNN Method for Hyperspectral Pansharpening
+    authors: Giuseppe Guarino, <strong>Matteo Ciotola</strong>, Giovanni Poggi, Gemine Vivone, Giuseppe Scarpa
+    conference_short: IGARSS 2024
+    conference: IEEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10641593
+    page: https://ieeexplore.ieee.org/abstract/document/10641593
+    bibtex: ./bibs/balance-igarss.txt
+
   - title: Pansharpening by Efficient and Fast Unsupervised Target-Adaptive CNN
     authors: <strong>Matteo Ciotola</strong>, Giuseppe Guarino, Antonio Mazza, Giovanni Poggi, Giuseppe Scarpa
     conference_short: IGARSS 2023

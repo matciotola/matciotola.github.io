@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Ciotola2025BalanceIGARSS,
+  author={Ciotola, Matteo and Guarino, Giuseppe and Poggi, Giovanni and Scarpa, Giuseppe},
+  booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium},
+  title={Balancing Spectral and Spatial Quality in CNN-Based Unsupervised Pansharpening},
+  year={2024},
+  volume={},
+  number={},
+  pages={1091-1094},
+  doi={10.1109/IGARSS53475.2024.10642361}
+}
